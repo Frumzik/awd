@@ -240,7 +240,7 @@ input[type="number"] {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 12.4vh 12.4vh;
     gap: 1vh;
-    padding-bottom: 7.98vh;
+    padding-bottom: 10.98vh;
 }
 .menu__blocks {
     width: 164px;
